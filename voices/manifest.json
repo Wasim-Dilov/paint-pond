@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "lines": {
+    "colour-red": {
+      "file": "colour-red.m4a",
+      "text": "Red!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 390
+    },
+    "colour-orange": {
+      "file": "colour-orange.m4a",
+      "text": "Orange!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 576
+    },
+    "colour-yellow": {
+      "file": "colour-yellow.m4a",
+      "text": "Yellow!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 623
+    },
+    "colour-green": {
+      "file": "colour-green.m4a",
+      "text": "Green!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 495
+    },
+    "colour-blue": {
+      "file": "colour-blue.m4a",
+      "text": "Blue!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 452
+    },
+    "colour-purple": {
+      "file": "colour-purple.m4a",
+      "text": "Purple!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 550
+    },
+    "colour-pink": {
+      "file": "colour-pink.m4a",
+      "text": "Pink!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 443
+    },
+    "colour-brown": {
+      "file": "colour-brown.m4a",
+      "text": "Brown!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 611
+    },
+    "colour-black": {
+      "file": "colour-black.m4a",
+      "text": "Black!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 495
+    },
+    "colour-white": {
+      "file": "colour-white.m4a",
+      "text": "White!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 498
+    },
+    "colour-grey": {
+      "file": "colour-grey.m4a",
+      "text": "Grey!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 542
+    },
+    "colour-rainbow": {
+      "file": "colour-rainbow.m4a",
+      "text": "Rainbow!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 751
+    },
+    "lights-off": {
+      "file": "lights-off.m4a",
+      "text": "Lights off! Look how it glows!",
+      "cast": "announcer",
+      "voice": "Zoe (Premium)",
+      "durationMs": 1822
+    },
+    "home-pick": {
+      "file": "home-pick.m4a",
+      "text": "What shall we colour today?",
+      "cast": "announcer",
+      "voice": "Zoe (Premium)",
+      "durationMs": 1242
+    },
+    "done-1": {
+      "file": "done-1.m4a",
+      "text": "Wow! What a beautiful picture!",
+      "cast": "announcer",
+      "voice": "Zoe (Premium)",
+      "durationMs": 1822
+    },
+    "done-2": {
+      "file": "done-2.m4a",
+      "text": "You did it! I love your colours!",
+      "cast": "announcer",
+      "voice": "Zoe (Premium)",
+      "durationMs": 1798
+    },
+    "done-3": {
+      "file": "done-3.m4a",
+      "text": "Amazing! That's going on the fridge!",
+      "cast": "announcer",
+      "voice": "Zoe (Premium)",
+      "durationMs": 2124
+    }
+  }
+}
