@@ -92,6 +92,13 @@
       "voice": "Zoe (Premium)",
       "durationMs": 1822
     },
+    "who-pick": {
+      "file": "who-pick.m4a",
+      "text": "Who is colouring today? Tap your picture!",
+      "cast": "announcer",
+      "voice": "Zoe (Premium)",
+      "durationMs": 2321
+    },
     "home-pick": {
       "file": "home-pick.m4a",
       "text": "What shall we colour today?",
@@ -119,6 +126,97 @@
       "cast": "announcer",
       "voice": "Zoe (Premium)",
       "durationMs": 2124
+    },
+    "tool-crayon": {
+      "file": "tool-crayon.m4a",
+      "text": "Crayon!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 524
+    },
+    "tool-pencil": {
+      "file": "tool-pencil.m4a",
+      "text": "Pencil!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 524
+    },
+    "tool-marker": {
+      "file": "tool-marker.m4a",
+      "text": "Felt-tip pen!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 890
+    },
+    "tool-paint": {
+      "file": "tool-paint.m4a",
+      "text": "Paint brush!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 692
+    },
+    "tool-watercolour": {
+      "file": "tool-watercolour.m4a",
+      "text": "Watercolour!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 855
+    },
+    "tool-spray": {
+      "file": "tool-spray.m4a",
+      "text": "Spray paint!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 957
+    },
+    "tool-glitter": {
+      "file": "tool-glitter.m4a",
+      "text": "Glitter!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 506
+    },
+    "tool-rainbow": {
+      "file": "tool-rainbow.m4a",
+      "text": "Rainbow brush!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 1122
+    },
+    "tool-glow": {
+      "file": "tool-glow.m4a",
+      "text": "Glow pen!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 727
+    },
+    "tool-fill": {
+      "file": "tool-fill.m4a",
+      "text": "Paint bucket!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 831
+    },
+    "tool-sticker": {
+      "file": "tool-sticker.m4a",
+      "text": "Stickers!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 797
+    },
+    "tool-smudge": {
+      "file": "tool-smudge.m4a",
+      "text": "Smudge!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 681
+    },
+    "tool-eraser": {
+      "file": "tool-eraser.m4a",
+      "text": "Eraser!",
+      "cast": "coach",
+      "voice": "Zoe (Premium)",
+      "durationMs": 751
     }
   }
 }
